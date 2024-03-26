@@ -3,10 +3,10 @@
 🖥️ &nbsp; I loke to explore new techologies and develop software solutions and quicj hacks.\
 &nbsp; I'm currently studying Computer Science at the University of Rajiv Gandhi Knowledge and technologies.\
 
-👨‍💻 &nbsp; About me
- 😊 &nbsp;Currently studying in RGUKT Nuzvid. I'm doing my B.tech in CSE branch.\
- 😀 &nbsp;I'm very much interesting in Machine Learning, Artificial Intelligence and Backend developement.\
- ⚡  I like playing chess.\
+# 👨‍💻 &nbsp; About me.\
+ .😊 &nbsp;Currently studying in RGUKT Nuzvid. I'm doing my B.tech in CSE branch.\
+ .😀 &nbsp;I'm very much interesting in Machine Learning, Artificial Intelligence and Backend developement.\
+ .⚡ &nbsp; I like playing chess.\
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
