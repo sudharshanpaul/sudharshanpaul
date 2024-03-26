@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there I'm Sudharshan Paul
 
-<!--
-**sudharshanpaul/sudharshanpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ &nbsp; I loke to explore new techologies and develop software solutions and quicj hacks.\
+&nbsp; I'm currently studying Computer Science at the University of Rajiv Gandhi Knowledge and technologies.\
 
-Here are some ideas to get you started:
+👨‍💻 &nbsp; About me
+ 😊 Currently studying in RGUKT Nuzvid. I'm doing my B.tech in CSE branch.
+ 😀 I'm very much interesting in Machine Learning, Artificial Intelligence and Backend developement.
+ ⚡  I like playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C_Language-black?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+
+![GitHub](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
