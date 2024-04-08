@@ -1,7 +1,7 @@
 # Hey there I'm Sudharshan Paul
 
-🖥️ &nbsp; I loke to explore new techologies and develop software solutions and quicj hacks.\
-👨‍💻 &nbsp; I'm currently studying Computer Science at the University of Rajiv Gandhi Knowledge and technologies
+🖥️ &nbsp; I like to explore new techologies and develop software solutions and quick hacks.\
+👨‍💻 &nbsp; I'm currently studying Computer Science at the Rajiv Gandhi University of Knowlwdge and Technologies
 
 ## 👨‍💻 &nbsp; About me
  .😊 &nbsp;Currently studying in RGUKT Nuzvid. I'm doing my B.tech in CSE branch.\
